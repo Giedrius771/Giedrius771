@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giedrius771
+- 👋 Hi, I’m Giedrius
 - 👀 I’m interested in Python coding langue.
 - 🌱 I’m currently learning python for beginners.
 - 💞️ I’m looking to collaborate on job data analyst.
